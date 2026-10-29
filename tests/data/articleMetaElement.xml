@@ -41,6 +41,14 @@
       <xref ref-type="corresp" rid="corresp-1"/>
       <xref ref-type="author-notes" rid="con-1"/>
     </contrib>
+    <contrib contrib-type="author">
+      <name-alternatives>
+        <name name-style="western" specific-use="primary">
+          <surname>second-author-lastname</surname>
+          <given-names>second-author-firstname</given-names>
+        </name>
+      </name-alternatives>
+    </contrib>
   </contrib-group>
   <aff id="aff-1">
     <institution-wrap>
